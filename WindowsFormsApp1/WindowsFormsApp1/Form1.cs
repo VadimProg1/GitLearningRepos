@@ -12,7 +12,8 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
-        int a = 2;
+        int a = 3;
+        int b = 2;
         public Form1()
         {
             InitializeComponent();
